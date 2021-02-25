@@ -67,3 +67,5 @@ buck-out/
 
 # Buck Config
 .buckconfig
+
+.eslintrc.js
