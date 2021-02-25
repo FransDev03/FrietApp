@@ -1,0 +1,18 @@
+{
+  "no": "No",
+  "yes": "Yes",
+  "edit": "Edit",
+  "search": "Search...",
+  "delete": "Delete",
+  "addTitle": "Add title",
+  "noResult": "No result",
+  "negatives": "Negatives",
+  "positives": "Positives",
+  "tagExists": "This tag already exists!",
+  "sureRemove": "Are you sure you want to delete this item?",
+  "noLocation": "No location",
+  "itemExists": "This name is already in use!",
+  "addLocation": "Add location",
+  "errorTryAgain": "Something went wrong! Try again",
+  "noNameSubmitted": "A title is required!"
+}

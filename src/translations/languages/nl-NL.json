@@ -1,0 +1,18 @@
+{
+  "no": "Nee",
+  "yes": "Ja",
+  "edit": "Bewerken",
+  "search": "Zoeken...",
+  "delete": "Verwijderen",
+  "addTitle": "Voeg titel toe",
+  "noResult": "Geen resultaat",
+  "negatives": "Minpunten",
+  "positives": "Pluspunten",
+  "tagExists": "Deze tag bestaat al!",
+  "sureRemove": "Weet u zeker dat u dit item wilt verwijderen?",
+  "noLocation": "Geen locatie",
+  "itemExists": "Er bestaat al een item met deze naam!",
+  "addLocation": "Voeg locatie toe",
+  "errorTryAgain": "Er is een fout opgetreden! Probeer het opnieuw",
+  "noNameSubmitted": "Zorg dat een item een naam heeft!"
+}
